@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+body {
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+::-webkit-scrollbar { height: 4px; }
+::-webkit-scrollbar-thumb { background-color: rgba(147, 51, 234, 0.3); border-radius: 9999px; }

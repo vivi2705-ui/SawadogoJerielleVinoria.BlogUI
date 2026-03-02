@@ -1,0 +1,279 @@
+[
+  {
+    "id": 1,
+    "title": "Latest Manga Releases",
+    "author": "Vinoria Sawadogo",
+    "date": "January 2023",
+    "category": "nouveauté",
+    "tags": ["manga", "weekly", "digital"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVf-sdYupnZGu6gWXuOxt0-WBqEP-hDG41uA&s",
+    "content": [
+      "One Piece",
+      "Perhaps the biggest anime in Japan currently is One Piece by Eiichiro Oda, the story of young pirate Luffy and his dream to become the king of the pirates and find the titular One Piece, a mysterious treasure hidden in the Grand Line. One Piece is also the best selling manga of all-time, with over 500 million copies sold worldwide. There is an anime adaptation of the manga that is still on-going with over 1,000 episodes out and 15 movies, as well as a live-action adaptation released on Netflix in 2023.",
+      "Naruto",
+      "Naruto is another popular shonen anime that is a part of the top ten in best selling manga by Masashi Kishimoto with 250 million copies in sales. The anime is centered around a young ninja named Naruto who aims to become the “hokage”, the strongest ninja and leader of his village. Like many other popular anime, Naruto has been adapted in video games, a musical, movies, and has an upcoming live-action movie adaptation with Lionsgate.",
+      "Dragon Ball",
+      "Dragon Ball by Akira Toriyama ranks 4th in the best-selling manga ranks and also the best-selling completed manga with 260 million copies sold. This manga takes on the story of Son Goku, a young boy who embarks on a quest to become stronger and obtain all seven Dragon balls. The plot is influenced by the classic Chinese story, Journey to the West. Its adaptations include anime, 21 movies, over 40 different video games, and one live-action released in 2009."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Beginner’s Otaku Guide",
+    "author": "Scarlett Dickson",
+    "date": "March 2026",
+    "category": "shojo",
+    "tags": ["guide", "beginner", "culture"],
+    "cover": "https://safebooru.org//images/4133/b20d76644862f9f37a590f6b86ebe1da.png?6324626",
+    "content": [
+      "What is an otaku?",
+      "The word “otaku” derives from the Japanese term “お宅” (otaku) which means “your house”, but it is also used as an honorific term to refer to others. Someone called this term can mean that this person spends an excessive amount of money, time, and energy into a specific hobby. Hence, how a lot of avid anime fans can be referred to with this term. Its beginning can be traced back to the anime Super Dimensional Fortress Macross (1982), where the main character would refer to other characters using “otaku” and fans started using it amongst themselves. Although, it can also be used in a negative way– People often called “otakus” have a reputation for being very introverted and are unable to engage in what most would consider normal social relationships. And so, they end up turning to the virtual world instead.",
+      "Throughout the decades, the term “otaku” has generally moved away from less of an offensive term. While “otaku” can be used for describing anyone with an obsessive hobby, it is used mostly towards people who are into anime, video games, and manga. Otaku culture began to be seen in a more positive light after the rise of Japanese pop culture with anime such as Neon Genesis Evangelion (1995), Yu Yu Hakusho (1992), and Dragon Ball Z (1989). The culture was on the rise and expanded as more people became fans and gave room for subcultures such as manga and video games. Those who are otakus in Japan now (or consider themselves to be) are still well obsessed with this pop culture, but now also includes casual fans who aren’t as deep into it as the others.",
+      "Modern Otaku Culture",
+      "Those in otaku culture can be split into two main categories– anime/manga and video games. Within these two main categories, they include more subcategories like cosplaying and idols. After all, “otaku” can be used to describe anyone with an obsessive hobby. It can be said that the anime/manga subculture is the most popular, as it has the biggest effect out of all of them in Japan. More often than not, promotions and collaborations with anime can be found everywhere, especially in big cities like Tokyo, where most of the big anime-related events such as Anime Japan (largest anime convention in the world) are held.",
+      "While much can be said about otakus and their rising popularity, they and the term continue to hold a certain negative perception. By definition, otakus are obsessive and spend an exuberant amount of time on side hobbies. Another reason they are seen in such a negative light is due to its close similarity with “hikikomoris”, which are people who withdraw from society and choose to spend the majority, if not all, of their time alone at home. “People who are perceived to let hobbies get in the way of taking on ‘adult’ roles and responsibilities at work and home are often called otaku.” (An Otaku Cyclopedia, Galbraith)."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Cosplay Culture",
+    "author": "Bowen Higgins",
+    "date": "April 2025",
+    "category": "cosplay",
+    "tags": ["culture", "convention", "community"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFJDIWVRZb0UJA4sMfXSNnw3vjvaBqLMHIw&s",
+    "content": [
+      "Cosplay is a major pillar of otaku culture.",
+      "Fans recreate their favorite characters with impressive craftsmanship.",
+      "Conventions provide spaces for creativity and community."
+    ]
+  },
+ 
+  
+  {
+    "id": 4,
+    "title": "Anime Film Reviews",
+    "author": "Leighton Kramer",
+    "date": "May 2024",
+    "category": "seinen",
+    "tags": ["film", "review", "cinema"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DpmEy1GKcftP2vlF_iGlJ3uOsGHlu6s1ZQ&s",
+    "content": [
+      "Anime films often feature breathtaking animation quality.",
+      "Directors experiment with storytelling and artistic expression.",
+      "Box office records continue to be broken by anime movies."
+    ]
+  },
+   {
+    "id": 5, 
+    "title": "Top Shonen Series",
+    "author": "Saige Fuentes",
+    "date": "March 2026",
+    "category": "shonen",
+    "tags": ["battle", "friendship", "top 10"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV8xGi9hjZyd1yYI05tQis73j7LSr2uV-wXg&s",
+    "content": [
+      "Shonen remains one of the most popular anime and manga demographics.",
+      "Themes of friendship, perseverance, and growth define the genre.",
+      "Iconic battle scenes and emotional arcs keep fans engaged worldwide."
+    ]
+  },
+  
+  {
+    "id": 6,
+    "title": "Iconic Anime Soundtracks",
+    "author": "Amelie Griffith",
+    "date": "December 2025",
+    "category": "shojo",
+    "tags": ["music", "opening", "ending"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInM-7WvFF85pLzYm7plJ8CWaLuiaKsNia6A&s",
+    "content": [
+      "Opening and ending themes shape the identity of anime series.",
+      "Composers create emotional and memorable melodies.",
+      "Soundtracks are now streamed globally."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Fan Art Spotlight",
+    "author": "Franklin Sierra",
+    "date": "August 2021",
+    "category": "nouveauté",
+    "tags": ["art", "digital", "community"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjGJmDmV1QvFXpybZYPOcVpDblyeMrpyab_w&s",
+    "content": [
+      "Fan art showcases the creativity of the anime community.",
+      "Social media platforms allow artists to gain global visibility.",
+      "Digital tools have revolutionized artistic expression."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Otaku Fashion Trends",
+    "author": "Marceline Avila",
+    "date": "November 2025",
+    "category": "shojo",
+    "tags": ["fashion", "streetwear", "culture"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9T9GlqtCYSHoCNMdeVzl753hCOv5itp5L5g&s",
+    "content": [
+      "Streetwear inspired by anime is trending worldwide.",
+      "Graphic prints and bold designs dominate the style.",
+      "Anime fashion blends pop culture and personal identity."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Character Theories",
+    "author": "Jaylen Blackwell",
+    "date": "October 2024",
+    "category": "seinen",
+    "tags": ["analysis", "theory", "discussion"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi43U2pQLJmjACaLuYK6UpJpYpQUBOdvJNbw&s",
+    "content": [
+      "Fans enjoy analyzing hidden clues in anime storylines.",
+      "Character motivations often spark debate.",
+      "Online forums are filled with speculation and theory crafting."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Convention Survival Guide",
+    "author": "Saoirse Conrad",
+    "date": "March 2019",
+    "category": "cosplay",
+    "tags": ["convention", "tips", "community"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDgoyTkbSW07zCpPLMN6UtCD2K0GBW4DkY4A&s",
+    "content": [
+      "Anime conventions are unforgettable experiences.",
+      "Planning ahead ensures a smoother event.",
+      "Meeting fellow fans strengthens community bonds."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Behind the Studios",
+    "author": "Dilan Wolf",
+    "date": "March 2022",
+    "category": "seinen",
+    "tags": ["studio", "production", "industry"],
+    "cover": "https://i.ytimg.com/vi/Z9UiLmywVzQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCe7M-45mxYdiFHDHwp46sBPtPLEw",
+    "content": [
+      "Animation studios drive innovation in the industry.",
+      "Each studio has a unique artistic signature.",
+      "Production schedules can be intense and demanding."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Manga vs Anime Adaptations",
+    "author": "Jolene Fox",
+    "date": "September 2023",
+    "category": "top 10",
+    "tags": ["comparison", "adaptation", "debate"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCsjFSFpp1rYxr9pvjU9xAjD6oWsfhqL8m1A&s",
+    "content": [
+      "Adaptations sometimes differ from their source material.",
+      "Pacing and filler episodes can affect storytelling.",
+      "Fans often debate which version is superior."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Anime Merchandise Guide",
+    "author": "Antonio Crosby",
+    "date": "June 2026",
+    "category": "figurines",
+    "tags": ["collectibles", "limited edition", "shopping"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqf_YSXLFyqT49Sud9YUErbBrs6wbFIc3yMQ&s",
+    "content": [
+      "Figures and collectibles are prized possessions.",
+      "Limited editions increase in value over time.",
+      "Merchandise connects fans to their favorite characters."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Webtoon Highlights",
+    "author": "Keily Meza",
+    "date": "July 2025",
+    "category": "nouveauté",
+    "tags": ["webtoon", "digital", "trending"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKanhqx0RHDOceaVWVsuppYSA0K-nva95EA&s",
+    "content": [
+      "Webtoons are gaining popularity globally.",
+      "Vertical scrolling format makes them mobile-friendly.",
+      "Many webtoons are adapted into anime."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Anime News & Updates",
+    "author": "Lucian Lee",
+    "date": "May 2020",
+    "category": "nouveauté",
+    "tags": ["news", "announcement", "season"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa_IN-e0GikogEmnkxGGFPdIze33jlHkamAw&s",
+    "content": [
+      "New seasons are announced every quarter.",
+      "Streaming platforms compete for exclusives.",
+      "International collaborations are increasing."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Visual Novels & Otaku Games",
+    "author": "Kylan Gentry",
+    "date": "February 2026",
+    "category": "seinen",
+    "tags": ["games", "visual novel", "storytelling"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1SE_GTqZ1YN8AdO-tzIExSIpPh18koexAtA&s",
+    "content": [
+      "Visual novels blend storytelling and player choice.",
+      "Many anime adaptations originate from popular visual novels.",
+      "The genre remains strong among dedicated fans."
+    ]
+  },
+   {
+    "id": 17,
+    "title": "One piece",
+    "author": "Iansan & Lanyan",
+    "date": "April 2024",
+    "category": "nouveauté",
+    "tags": ["Pirate", "1000", "Straw hats"],
+    "cover": "/card1.jpg",
+    "content": [
+      "One piece has officially beat Harry Potter has the highest saled novel in history",
+      "Eichiro oda receiving same award and compensation as JK Rolling",
+      "A moment of victory for the long lasting fans!"
+    ]
+  },
+   {
+     "id": 18,
+    "title": "Shinkegi no kyojin",
+    "author": "Alice Kleenier",
+    "date": "February 2026",
+    "category": "nouveauté",
+    "tags": ["Yokai", "Hackerman", "Bataille"],
+    "cover": "card2.jpg",
+    "content": [
+      "Hihligh about the best looking and strongest characters of all attack on titans: the wonderfull Hackermans",
+      "Battle between the cousins Rivaille and Mikasa Hackerman",
+      "How Mikasa's father got killed by Eren!!!"
+    ]
+  },
+   {
+    "id": 19,
+    "title": "Naruto Shippuden",
+    "author": "Il Dottore simp",
+    "date": "September 2023",
+    "category": "nouveauté",
+    "tags": ["Ninja", "Simp", "SASUKEEEEE!"],
+    "cover": "/card4.Jpg",
+    "content": [
+      "The most controversial ship of all time",
+      "Discover how Naruto shippuden fans handle the end of their beloved serie and it mediocre storytelling",
+      "Bonus on how Naruhina fans almost got destroyed by SasuNaru!"
+    ]
+  }
+  
+  
+]

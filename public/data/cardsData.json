@@ -1,0 +1,309 @@
+[
+  {
+    "id": 1,
+    "title": "Latest Manga Releases",
+    "author": "Vinoria Sawadogo",
+    "date": "January 2023",
+    "category": "nouveauté",
+    "tags": ["manga", "weekly", "digital"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDBSzI9P43QnaM9FYB_iOjbpF09Y-utWRiVg&s",
+    "alt": "Stack of manga books",
+    "desc": "Discover the newest manga volumes and series fresh off the shelves!",
+    "content": [
+      "The manga industry continues to grow rapidly each year.",
+      "New series are being serialized weekly, introducing fresh worlds and characters.",
+      "Fans eagerly anticipate each volume release, especially from major publishers.",
+      "Digital platforms now allow global access to manga instantly."
+    ]
+  },
+    {
+    "id": 2,
+    "title": "Beginner's Otaku Guide",
+    "author": "Scarlett Dickson",
+    "date": "March 2026",
+    "category": "shojo",
+    "tags": ["guide", "beginner", "culture"],
+    "cover": "https://cdn11.bigcommerce.com/s-q39b4/images/stencil/2000x2000/products/8227/231973/9784805313855.website__65426.1567532994.jpg?c=2",
+    "alt": "Anime learning guide concept",
+    "desc": "Tips and terms for newcomers to anime and manga culture.",
+    "content": [
+      "Otaku culture can seem overwhelming at first.",
+      "Understanding genres helps new fans navigate content.",
+      "Community engagement enhances the experience."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Cosplay Culture",
+    "author": "Bowen Higgins",
+    "date": "April 2025",
+    "category": "cosplay",
+    "tags": ["culture", "convention", "community"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQL4-z08_1m5pTblNty7mbC7aouUrMpIkGQ&s",
+    "alt": "Cosplayers at a convention",
+    "desc": "Get ideas and tips for creating amazing cosplay outfits.",
+    "content": [
+      "Cosplay is a major pillar of otaku culture.",
+      "Fans recreate their favorite characters with impressive craftsmanship.",
+      "Conventions provide spaces for creativity and community."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Anime Film Reviews",
+    "author": "Leighton Kramer",
+    "date": "May 2024",
+    "category": "seinen",
+    "tags": ["film", "review", "cinema"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPLXmY8V1aQc-BxVUBlPd41of2jzCX1926DA&s",
+    "alt": "Anime movie scene",
+    "desc": "Reviews and recommendations for must-watch anime movies.",
+    "content": [
+      "Anime films often feature breathtaking animation quality.",
+      "Directors experiment with storytelling and artistic expression.",
+      "Box office records continue to be broken by anime movies."
+    ]
+  },
+    {
+    "id": 5,
+    "title": "Top Shonen Series",
+    "author": "Saige Fuentes",
+    "date": "March 2026",
+    "category": "shonen",
+    "tags": ["battle", "friendship", "top 10"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgn6FvZO0dllzu14-WErr0nUNUtnwt2BfNlg&s",
+    "alt": "Shonen anime illustration",
+    "desc": "Explore the most popular shonen titles loved by fans worldwide.",
+    "content": [
+      "Shonen remains one of the most popular anime and manga demographics.",
+      "Themes of friendship, perseverance, and growth define the genre.",
+      "Iconic battle scenes and emotional arcs keep fans engaged worldwide."
+    ]
+  },
+  
+  {
+    "id": 6,
+    "title": "Iconic Anime Soundtracks",
+    "author": "Amelie Griffith",
+    "date": "December 2025",
+    "category": "shojo",
+    "tags": ["music", "opening", "ending"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5UiTEyqNSM8-PcjHH3te2v0Px87CIWWsoCg&s",
+    "alt": "Headphones and music notes",
+    "desc": "Explore iconic soundtracks that defined your favorite series.",
+    "content": [
+      "Opening and ending themes shape the identity of anime series.",
+      "Composers create emotional and memorable melodies.",
+      "Soundtracks are now streamed globally."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Fan Art Spotlight",
+    "author": "Franklin Sierra",
+    "date": "August 2021",
+    "category": "nouveauté",
+    "tags": ["art", "digital", "community"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0B-QAC_a42IWvAId7QSF2ewMkGdHWWjs-LQ&s",
+    "alt": "Anime fan art display",
+    "desc": "Highlighting creative fan art from the anime community.",
+    "content": [
+      "Fan art showcases the creativity of the anime community.",
+      "Social media platforms allow artists to gain global visibility.",
+      "Digital tools have revolutionized artistic expression."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Otaku Fashion Trends",
+    "author": "Marceline Avila",
+    "date": "November 2025",
+    "category": "shojo",
+    "tags": ["fashion", "streetwear", "culture"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6SS6_mtHaC5Ef31LtmkU49n9UvfyV6ZGnGQ&s",
+    "alt": "Anime-inspired fashion outfit",
+    "desc": "Check out popular fashion styles inspired by anime culture.",
+    "content": [
+      "Streetwear inspired by anime is trending worldwide.",
+      "Graphic prints and bold designs dominate the style.",
+      "Anime fashion blends pop culture and personal identity."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Character Theories",
+    "author": "Jaylen Blackwell",
+    "date": "October 2025",
+    "category": "seinen",
+    "tags": ["analysis", "theory", "discussion"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6TtbH1nbq4xGV7raxPnuIMTOdnIB0DItimw&s",
+    "alt": "Anime character artwork",
+    "desc": "Deep dives into your favorite characters and theories.",
+    "content": [
+      "Fans enjoy analyzing hidden clues in anime storylines.",
+      "Character motivations often spark debate.",
+      "Online forums are filled with speculation and theory crafting."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Convention Survival Guide",
+    "author": "Saoirse Conrad",
+    "date": "March 2019",
+    "category": "cosplay",
+    "tags": ["convention", "tips", "community"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM2Zd_7CJ86s6c0eA8qAd03n3H4Ee71ay3Nw&s",
+    "alt": "Anime convention crowd",
+    "desc": "Tips for preparing and surviving anime conventions.",
+    "content": [
+      "Anime conventions are unforgettable experiences.",
+      "Planning ahead ensures a smoother event.",
+      "Meeting fellow fans strengthens community bonds."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Behind the Studios",
+    "author": "Dilan Wolf",
+    "date": "March 2022",
+    "category": "seinen",
+    "tags": ["studio", "production", "industry"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLv2J9xHc1qjbahkSNTJq78WbpIO_yOPu2g&s",
+    "alt": "Anime production studio workspace",
+    "desc": "Learn about the studios and creators behind your favorite works.",
+    "content": [
+      "Animation studios drive innovation in the industry.",
+      "Each studio has a unique artistic signature.",
+      "Production schedules can be intense and demanding."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Manga vs Anime Adaptations",
+    "author": "Jolene Fox",
+    "date": "September 2023",
+    "category": "top 10",
+    "tags": ["comparison", "adaptation", "debate"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK032Qi-Wp51XvkBv91epTTUS7c4897zmPIw&s",
+    "alt": "Side by side anime and manga",
+    "desc": "Compare manga originals with their anime adaptations.",
+    "content": [
+      "Adaptations sometimes differ from their source material.",
+      "Pacing and filler episodes can affect storytelling.",
+      "Fans often debate which version is superior."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Anime Merchandise Guide",
+    "author": "Antonio Crosby",
+    "date": "June 2026",
+    "category": "figurines",
+    "tags": ["collectibles", "limited edition", "shopping"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxoxTdbNV1S0HfSxg9udKQp1xYxt8Bx3NaNQ&s",
+    "alt": "Anime merchandise collection",
+    "desc": "Cool figures, posters, and merch every otaku wants!",
+    "content": [
+      "Figures and collectibles are prized possessions.",
+      "Limited editions increase in value over time.",
+      "Merchandise connects fans to their favorite characters."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Webtoon Highlights",
+    "author": "Keily Meza",
+    "date": "July 2025",
+    "category": "nouveauté",
+    "tags": ["webtoon", "digital", "trending"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-n9hPc9NVH5R2uPXG5ccnt6A5nvjRlmNdQ&s",
+    "alt": "Webtoon comics on phone",
+    "desc": "Popular webtoons and online comics to follow now.",
+    "content": [
+      "Webtoons are gaining popularity globally.",
+      "Vertical scrolling format makes them mobile-friendly.",
+      "Many webtoons are adapted into anime."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Anime News & Updates",
+    "author": "Lucian Lee",
+    "date": "May 2020",
+    "category": "nouveauté",
+    "tags": ["news", "announcement", "season"],
+    "cover": "https://static.crunchyroll.com/cr-acquisition/assets/img/start/hero/us-global/background-desktop.jpg",
+    "alt": "Anime news collage",
+    "desc": "Latest announcements and news from the world of anime.",
+    "content": [
+      "New seasons are announced every quarter.",
+      "Streaming platforms compete for exclusives.",
+      "International collaborations are increasing."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Visual Novels & Otaku Games",
+    "author": "Kylan Gentry",
+    "date": "February 2026",
+    "category": "seinen",
+    "tags": ["games", "visual novel", "storytelling"],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbB95coKtddxL0_M5cVPjFJi771eicjUqrA&s",
+    "alt": "Gaming controller with anime art",
+    "desc": "A guide to the best otaku-friendly games and visual novels.",
+    "content": [
+      "Visual novels blend storytelling and player choice.",
+      "Many anime adaptations originate from popular visual novels.",
+      "The genre remains strong among dedicated fans."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "One Piece",
+    "author": "Iansan & Lanyan",
+    "date": "April 2024",
+    "category": "nouveauté",
+    "tags": ["Pirate", "1000", "Straw hats"],
+    "cover": "/card1.jpg",
+    "alt": "One piece",
+    "desc": "The anime that breaks all records",
+    "content": [
+      "Longest manga",
+      "Eichiro oda just receive an award",
+      "Incredible moments"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Shinkegi no kyojin",
+    "author": "Alice Kleenier",
+    "date": "February 2026",
+    "category": "nouveauté",
+    "tags": ["Yokai", "Hackerman", "Bataille"],
+    "cover": "/card2.jpg",
+    "alt": "Attack on titans",
+    "desc": "The battle of the Hackermans",
+    "content": [
+      "Hihligh about the best looking and strongest characters of all attack on titans: the wonderfull Hackermans",
+      "Battle between the cousins Rivaille and Mikasa Hackerman",
+      "How Mikasa's father got killed by Eren!!!"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Naruto Shippuden",
+    "author": "Il Dottore simp",
+    "date": "September 2023",
+    "category": "nouveauté",
+    "tags": ["Ninja", "Simp", "SASUKEEEEE!"],
+    "cover": "/card4.jpg",
+    "alt": "NARUTO",
+    "desc": "A story on how Naruto almost marry Sasuke",
+    "content": [
+      "The most controversial ship of all time",
+      "Discover how Naruto shippuden fans handle the end of their beloved serie and it mediocre storytelling",
+      "Bonus on how Naruhina fans almost got destroyed by SasuNaru!"
+    ]
+  }
+
+]
