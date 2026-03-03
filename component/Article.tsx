@@ -131,11 +131,11 @@ const Article = ({
     </button>
     <div
   id="custom-alert" 
-  className="fixed top-5 right-5 alert alert-info shadow-lg w-72"
+  className="hidden fixed top-20 left-5 alert alert-info shadow-lg w-72"
 >
 
   <span className="text-blue-900 font-semibold">
-    Commentaire posté 
+    Commentaire posté!
   </span>
 </div>
   
@@ -149,4 +149,5 @@ const Article = ({
 }
 
 export default Article
+
 
